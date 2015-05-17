@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E35AD12F-CF27-48EA-8A74-87AEE82ECB97</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProficiencyTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>632697A9F89144BC206BAFEB4CA9874B8FAE924B</key>
+		<string>https://github.com/KanikaVarma/Test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProficiencyTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>632697A9F89144BC206BAFEB4CA9874B8FAE924B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KanikaVarma/Test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>632697A9F89144BC206BAFEB4CA9874B8FAE924B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>632697A9F89144BC206BAFEB4CA9874B8FAE924B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProficiencyTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
